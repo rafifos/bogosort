@@ -5,7 +5,7 @@ Don't use it, please.
 ## Usage 👍
 
 ```javascript
-import bogosort from "@rafifos/bogosort";
+import bogosort from "@rafif0s/bogosort";
 
 /**
  * @see {@link https://stackoverflow.com/a/34966558}

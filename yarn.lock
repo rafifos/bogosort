@@ -59,9 +59,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rafifos/bogosort@workspace:.":
+"@rafif0s/bogosort@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@rafifos/bogosort@workspace:."
+  resolution: "@rafif0s/bogosort@workspace:."
   dependencies:
     tsup: ^6.1.2
     typescript: ^4.7.3

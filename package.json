@@ -1,0 +1,40 @@
+{
+  "name": "@rafifos/bogosort",
+  "version": "1.0.0",
+  "description": "Don't use it, please.",
+  "keywords": [
+    "sort",
+    "bogosort",
+    "bogo-sort"
+  ],
+  "homepage": "https://github.com/rafifos/bogosort",
+  "bugs": "https://github.com/rafifos/bogosort/issues",
+  "license": "GFDL-1.2-or-later",
+  "author": "Rafael Julio <development@rafifos.dev> (https://rafifos.dev)",
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "repository": "github:rafifos/bogosort",
+  "packageManager": "yarn@3.2.1",
+  "engines": {
+    "node": ">= 16.0.0",
+    "npm": ">= 99999",
+    "pnpm": ">= 99999",
+    "yarn": ">= 2.0.0"
+  },
+  "scripts": {
+    "start": "tsup --watch",
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "tsup": "^6.1.2",
+    "typescript": "^4.7.3"
+  }
+}

@@ -1,0 +1,5 @@
+# See https://git-scm.com/docs/gitattributes for more about path attributes.
+
+# yarn >= 2
+/.yarn/releases/** binary
+/.yarn/plugins/** binary

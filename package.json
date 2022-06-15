@@ -1,6 +1,6 @@
 {
   "name": "@rafif0s/bogosort",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "description": "Don't use it, please.",
   "keywords": [
     "sort",
@@ -9,7 +9,7 @@
   ],
   "homepage": "https://github.com/rafifos/bogosort",
   "bugs": "https://github.com/rafifos/bogosort/issues",
-  "license": "GFDL-1.2-or-later",
+  "license": "Unlicense",
   "author": "Rafael Julio <development@rafifos.dev> (https://rafifos.dev)",
   "files": [
     "dist"

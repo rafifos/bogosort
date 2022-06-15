@@ -19,7 +19,7 @@ console.debug(sortedArr); // [ 1, 1, 2, 7, 8 ]
 
 ## Notice
 
-This piece of software is licensed under the [Unlicense](https://unlicense.org) and is loosely based
-on the [implementation](https://rosettacode.org/wiki/Sorting_algorithms/Bogosort#JavaScript)
-available at [Rosetta Code](https://rosettacode.org), which is licensed under the
+This piece of software is licensed under the [Unlicense](https://unlicense.org) and is based on the
+[implementation](https://rosettacode.org/wiki/Sorting_algorithms/Bogosort#JavaScript) available at
+[Rosetta Code](https://rosettacode.org), which is licensed under the
 [GNU Free Documentation License 1.2](https://www.gnu.org/licenses/old-licenses/fdl-1.2.html).
